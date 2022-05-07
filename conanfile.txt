@@ -1,0 +1,7 @@
+[requires]
+glew/2.2.0
+libpng/1.6.37
+libjpeg/9d
+
+[generators]
+cmake_find_package
